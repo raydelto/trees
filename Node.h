@@ -19,6 +19,7 @@ private:
 	Node* _first;
 	Node* _last;
 	Node* _next;
+	int _depth;
 	friend class Tree;
 };
 
